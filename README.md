@@ -28,7 +28,3 @@ Start main and you will get:
 0
 10
 ```
-
-### License
-
-Licensed under the [MIT License](https://github.com/alexgaas/parser/blob/master/README.md).
