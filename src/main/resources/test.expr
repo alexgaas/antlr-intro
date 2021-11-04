@@ -1,0 +1,9 @@
+a = 5
+b = 6
+a+b*2
+stop
+a+b
+stop
+c = 10
+d = 20
+d / 2
